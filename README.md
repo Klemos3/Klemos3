@@ -13,10 +13,10 @@ Estudante de Análise e Desenvolvimento de Sistemas pelo Centro Universitário A
 
  <div>
   <a href="https://github.com/Klemos3">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SLucas-Dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLucas-Dev&layout=compact&langs_count=16&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SLucas-Dev&theme=aura&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLucas-Dev&layout=compact&langs_count=16&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Klemos3&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klemos3&layout=compact&langs_count=16&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Klemos3&theme=aura&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klemos3&layout=compact&langs_count=16&theme=aura"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

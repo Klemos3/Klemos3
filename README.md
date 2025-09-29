@@ -12,7 +12,7 @@ Estudante de Análise e Desenvolvimento de Sistemas pelo Centro Universitário A
 @@ -28,31 +28,31 @@
 
  <div>
-  <a href="https://github.com/SLucas-Dev">
+  <a href="https://github.com/Klemos3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SLucas-Dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLucas-Dev&layout=compact&langs_count=16&theme=github_dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SLucas-Dev&theme=aura&show_icons=true"/>
@@ -32,9 +32,9 @@ Estudante de Análise e Desenvolvimento de Sistemas pelo Centro Universitário A
 
 <div> 
 
-  <a href="https://www.instagram.com/_sampaio.lucas" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-o-117366212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/qr/IQD6HSDBH3MOE1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/_lemos_3" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kim-bazilio-94362b216" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/qr/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SLucas-Dev/SLucas-Dev/output/github-contribution-grid-snake-dark.svg">
